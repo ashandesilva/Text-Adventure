@@ -9,6 +9,6 @@ public class Hammer extends Item{
 
     @Override
     public void use() {
-        System.out.println("Booyah!!!!!!!!");
+        System.out.println("Booyah!!!!!!");
     }
 }
