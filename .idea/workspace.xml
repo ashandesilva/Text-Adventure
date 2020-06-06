@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62f18d55-e61d-4606-ac7d-d8cb3087ea13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Item/Hammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item/Hammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
